@@ -1,0 +1,3 @@
+@import "thunder/resource/css/main.wxss";
+@import "thunder/resource/css/icon.wxss";
+@import "thunder/resource/css/more.wxss";
