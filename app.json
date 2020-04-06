@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "thunder/pages/index/index",
+    "thunder/pages/creat/fail/fail",    
+    "thunder/pages/creat/help/help",
+    "thunder/pages/creat/like/like",
+    "thunder/pages/creat/more/more",
+    "thunder/pages/creat/md5/md5",
+    "thunder/pages/creat/md5/md5_",
+    "thunder/pages/creat/oringin/oringin",
+    "thunder/pages/creat/video/video"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "无水印助手",
+    "navigationBarTextStyle": "white"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx7bfdfa22c67be5e4",
+    "wxd829ebc8794293c8",
+    "wx3ead47f82becff37",
+    "wxbc57b4fb7e77edd6"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
